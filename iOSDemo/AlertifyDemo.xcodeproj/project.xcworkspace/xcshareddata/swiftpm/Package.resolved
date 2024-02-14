@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AlertifySwift",
+        "repositoryURL": "https://github.com/manthan127/AlertifySwift",
+        "state": {
+          "branch": "main",
+          "revision": "794a1eb227a7c76ab2cc0b0a352b788c835b7eb9",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
