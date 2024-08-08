@@ -1,16 +1,15 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "AlertifySwift",
-        "repositoryURL": "https://github.com/manthan127/AlertifySwift",
-        "state": {
-          "branch": "main",
-          "revision": "8dd239e9649964aeae64f74386702b4e306c029e",
-          "version": null
-        }
+  "originHash" : "0477fd15aecd06034b4b9306d3726dbbae6969ea7a2e39bc062a697d9370c8b2",
+  "pins" : [
+    {
+      "identity" : "alertifyswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/manthan127/AlertifySwift",
+      "state" : {
+        "revision" : "623f6d59ab4f7ab649d9ead85d5dfeb45c2af696",
+        "version" : "1.0.0"
       }
-    ]
-  },
-  "version": 1
+    }
+  ],
+  "version" : 3
 }
